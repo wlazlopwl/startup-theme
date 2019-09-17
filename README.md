@@ -1,7 +1,7 @@
-# strona
+# Startup theme
 
-13artxfg
-> A Vue.js project
+
+> This is my first project in Vue and Vuetify.
 
 ## Build Setup
 
